@@ -1,4 +1,4 @@
-# 不是那個 ubuntu 台灣社群<br>Not That Ubuntu Taiwan Community
+# 不是那個 Ubuntu 台灣社群<br>Not That Ubuntu Taiwan Community
 <https://github.com/Not-That-Ubuntu-Taiwan-Community/Not-That-Ubuntu-Taiwan-Community>
 
 ## 注意事項
@@ -18,17 +18,21 @@
 
 2015/10/4 個人於 Telegram 群組曾請求加入[Ubuntu Taiwan LoCo Team](https://github.com/Ubuntu-TW) GitHub 組織：
 
+```
 > /me 想加入 Ubuntu-TW GitHub 組織
 > https://github.com/Ubuntu-TW
+```
 
 2016/3/17 個人於 Telegram 群組分享「Ubuntu 台灣社群」GitHub 組織的新 logo 時從 RJ Shiao 得知 [Ubuntu Taiwan LoCo Team](https://github.com/Ubuntu-TW) GitHub 組織為其所建立：
 
+```
 Wei-Jie Hsiao > https://github.com/orgs/Ubuntu-Taiwan-Community
 Wei-Jie Hsiao > 這誰建的？半個人也沒有
 Wei-Jie Hsiao > UbuntuTW已經有自己的Org在Github上
 Wei-Jie Hsiao > https://github.com/Ubuntu-TW
+```
 
-2016/5/7 個人正式收到由 RJ Shiao 所發出之 [Ubuntu Taiwan LoCo Team](https://github.com/Ubuntu-TW) GitHub 組織加入邀請信函（不過個人漏掉沒注意到這封信並在一段不短的時間之後才真正接受邀請），不過一直到 2016/11/1 透過李世元先生取得於 [Ubuntu Taiwan LoCo Team](https://github.com/Ubuntu-TW) GitHub 組織中建立新代碼倉庫的權限：
+2016/5/7 個人正式收到由 Wei-Jie Hsiao 所發出之 [Ubuntu Taiwan LoCo Team](https://github.com/Ubuntu-TW) GitHub 組織加入邀請信函（不過個人漏掉沒注意到這封信並在一段不短的時間之後才真正接受邀請），不過一直到 2016/11/1 透過李世元先生取得於 [Ubuntu Taiwan LoCo Team](https://github.com/Ubuntu-TW) GitHub 組織中建立新代碼倉庫的權限：
 
 ![_031](https://cloud.githubusercontent.com/assets/13408130/19887361/fefc53c0-a062-11e6-8c9a-b8d48fb66a06.png)
 
