@@ -2,6 +2,7 @@
 <https://github.com/Not-That-Ubuntu-Taiwan-Community/Not-That-Ubuntu-Taiwan-Community>
 
 ## 注意事項
+* 儘管放在公開頁面上，**這是尚未釋出版本**
 * 以下內容為個人記憶重放再加上搜尋過去對話紀錄拼湊而得，不保證正確性、可能遺漏部份細節僅供參考
 * 為避免混淆，以下由本人所創立的組織一律以「Ubuntu 台灣社群」表示，由 BlueT 等人組織的 Ubuntu 社群一律以「Ubuntu Taiwan LoCo Team」表示
 
@@ -68,9 +69,9 @@ Wei-Jie Hsiao > https://github.com/Ubuntu-TW
 
 ### 所謂「矯正措施」
 #### 消滅兩社群之間的混淆可能
-就改名叫做「不是那個 Ubuntu 台灣社群」吧！
+就改名叫做「[不是那個 Ubuntu 台灣社群](https://github.com/Not-That-Ubuntu-Taiwan-Community)」吧！
 
-對，您沒聽錯，就叫做「不是那個 Ubuntu 台灣社群」，沒有什麼比*直接反向*還要更不讓人把它跟原來類似的的東西混淆了！
+對，您沒聽錯，就叫做「[不是那個 Ubuntu 台灣社群](https://github.com/Not-That-Ubuntu-Taiwan-Community)」，沒有什麼比*直接反向*還要更不讓人把它跟原來類似的的東西混淆了！
 
 稍微致敬了一下一些例子就是了
 ![_034](https://cloud.githubusercontent.com/assets/13408130/19894071/91c685f4-a086-11e6-8e11-f59315d5bc32.png)
@@ -81,5 +82,3 @@ Wei-Jie Hsiao > https://github.com/Ubuntu-TW
 內容變更：https://github.com/Not-That-Ubuntu-Taiwan-Community/Document-Templates-For-Ubuntu-TW/commit/7bbd5efb331eeec8c19696fad61ea1ba24d1b208
 
 一言以蔽之：「Ubuntu 台灣社群XXXXXX」跟「用於 Ubuntu 台灣社群的XXXXX」意境就完全不同了，這樣反倒字面上更加符合該專案的目標
-
-
